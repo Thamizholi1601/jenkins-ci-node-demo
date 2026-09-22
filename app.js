@@ -14,3 +14,5 @@ if (require.main === module) {
 console.log("Updated application");
 console.log("hiii i am thamizh");
 console.log("hiii i am thamizhcjbajcbwuj ib");
+console.log("Updated application");
+console.log("hiii i am thamizh");
